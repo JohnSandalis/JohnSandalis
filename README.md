@@ -1,12 +1,8 @@
 # 👋 Hi, I’m Giannis Sandalis
 
-I'm a Software Engineer from Greece 🇬🇷 with a passion for building fast, accessible, and user-friendly web applications. I have 3 years of experience working with Next.js, React, TypeScript, and Node.js. I also co-founded a small web development agency [BluePeak](https://bluepeak.gr), delivering 10+ webistes, 2 e-commerce platforms and a full scale Next.js web app and recently launched a solo side project, [Smartlist.gr](https://smartlist.gr), a tool that helps Greek consumers save money on groceries by comparing prices across supermarkets.
+I'm a Software Engineer from Greece 🇬🇷 with a passion for building fast, accessible, and user-friendly web applications. I have ~3 years of professional experience working with React, TypeScript, and Node.js. I also co-founded a small web development agency and launched a few side projects on my own — most recently, [Smartlist.gr](https://smartlist.gr), a tool that helps Greek consumers save money on groceries by comparing prices across supermarkets.
 
-## Active Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnSandalis&repo=Smartlist)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,3 +23,13 @@ I'm a Software Engineer from Greece 🇬🇷 with a passion for building fast, a
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+## 🚀 Projects
+
+- 🛒 [Smartlist.gr](https://smartlist.gr) – A personal side project that finds the cheapest supermarket combination for your grocery list
+- 💼 [Web Development Agency (BluePeak)](https://bluepeak.gr) – Delivered 10+ webistes, 2 WooCommerce e-shops and a full scale Next.js web app
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/giannis-sandalis)
+- Email: giannis.sandalis@gmail.com
